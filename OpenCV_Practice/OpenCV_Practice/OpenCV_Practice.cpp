@@ -48,7 +48,7 @@ int main()
 
 		int keycode = waitKey(5);
 
-		if (keycode == 'a')			// a키를 누르면
+		if (keycode == 'a')		// a키를 누르면
 		{
 			switcher = !switcher;
 		}
